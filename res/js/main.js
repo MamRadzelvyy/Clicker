@@ -7,5 +7,5 @@ cookie.onclick = () => {
 
     numberOfCookies++;
 
-    counter.innerText = "Kočičky: " + numberOfCookies;
+    counter.innerText = "Sušenky: " + numberOfCookies;
 }
